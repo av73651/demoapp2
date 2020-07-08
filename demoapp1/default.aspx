@@ -11,6 +11,7 @@
         <div>
             This is my first sample application -test in azure
         </div>
+        <asp:HyperLink BorderColor="#ff6699" Target="_top" Text="my new hyperlink"></asp:HyperLink>
     </form>
 </body>
 </html>
